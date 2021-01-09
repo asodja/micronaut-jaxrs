@@ -17,9 +17,6 @@ package io.micronaut.jaxrs.processor;
 
 import edu.umd.cs.findbugs.annotations.NonNull;
 import io.micronaut.http.annotation.Controller;
-import io.micronaut.http.annotation.HttpMethodMapping;
-import io.micronaut.http.annotation.UriMapping;
-import io.micronaut.inject.annotation.AnnotationMetadataHierarchy;
 import io.micronaut.inject.ast.ClassElement;
 import io.micronaut.inject.ast.MethodElement;
 import io.micronaut.inject.ast.ParameterElement;
